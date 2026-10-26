@@ -13,7 +13,8 @@ The Interactive Quiz Application is a simple web-based project that allows users
 
 Try the Interactive Quiz Application here:
 
-**[Play the Quiz Online]((https://interactive-quiz-application-25bcon.vercel.app/))**
+**[Play the Quiz Online](
+[(https://interactive-quiz-application-25bcon.vercel.app/)]
 
 ## 🛠️ Technologies Used
 
