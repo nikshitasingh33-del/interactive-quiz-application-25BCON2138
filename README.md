@@ -9,7 +9,17 @@ The Interactive Quiz Application is a simple web-based project that allows users
 - User-friendly design
 - Dynamic interaction using JavaScript
 - Instant feedback or results, depending on the implemented functionality
+## 🌐 Live Demo
 
+Try the Interactive Quiz Application here:
+
+**[Play the Quiz Online]([PASTE_YOUR_VERCEL_URL_HERE](https://interactive-quiz-application-25bcon.vercel.app/))**
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 ## Technologies Used
 - **HTML** – Structures the quiz webpage.
 - **CSS** – Styles the quiz interface.
